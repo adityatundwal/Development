@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="submission_hacker_blocks/|lecture_1/" kind="src" path=""/>
+	<classpathentry kind="src" path="lecture_1"/>
+	<classpathentry kind="src" path="submission_hacker_blocks"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

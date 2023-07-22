@@ -1,0 +1,35 @@
+Spring Boot Prerequisites->Spring->Java 
+
+
+//Must
+1. Core Java (Variable,Typecasting,Data type)
+2.OOPS (All Concepts)
+ Class, Object
+ Method Overriding
+ Exception Handling
+ Trycatch
+ Packages Concepts
+ Multithreading
+ 
+
+3. J2EE (Advance Java)
+
+ JDBC  -> Database Operation ->CRUD Application
+ Servlet -> Creating Servlet, Type of Creating Servlet,Cookies Session
+ JSP -> View, Thymeleaf
+ Filter -> Concepts
+
+ 'Create a Small Project'
+
+
+4. Spring (Framework)-> Consists of Spring Core, Spring JDBC, Spring MVC, Spring ORM, Spring Boot
+
+Design Pattern -> Singleton Design Pattern, Factory Design Pattern,
+
+Spring Core Concepts ->IOC,Autowiring, Spring MVC, 
+
+
+5. Web Technologies -> HTML,CSS,Bootstrap, JS, Angular,React
+
+
+ 

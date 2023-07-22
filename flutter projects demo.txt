@@ -1,0 +1,142 @@
+Spotify Clone For Web and Desktop
+
+Create a 2D Snake Game in Flutter
+
+Online Shop App using Flutter
+
+Skype Clone in Flutter
+
+InKino – Movie App In Flutter
+
+StackOverflow App using Flutter
+
+Messenger Clone App using Flutter
+
+Podcast Player using Flutter
+
+Prism – Pinterest like App using Flutter
+
+Build a Beautiful Pokedex (Pokemon) App using Flutter
+
+Crypto App using Flutter
+
+Game Store using Flutter
+
+Nutrition App UI
+
+Uber Clone with Flutter
+
+Devfest App using Flutter
+
+Furniture App using Flutter
+
+News Aggregator App in Flutter
+
+WordPress Flutter
+
+Portfolio Website using Flutter
+
+Book Search App
+
+Hangman Game using Flutter
+
+Chat App in Flutter
+
+Todo App using Flutter
+
+Gmail Clone using Flutter
+
+Emoji UI for Food Ordering using Flutter
+
+Facebook Clone Responsive UI for Web and Mobile using Flutter
+
+Fluttergram
+
+Video Streaming Platform in Flutter
+
+Netflix UI for Mobile and Web using Flutter
+
+Event Orientation App using Flutter
+
+TikTok’s UI in Flutter
+
+Swarm Game using Flutter
+
+Speech to Text App (Voice Recognition) using Dart
+
+Flutter Crush Game
+
+Flutter WhatsApp Clone
+
+Clubhouse Clone UI using Flutter
+
+SpaceX Go – Launch Tracker using Flutter
+
+Tetris Game using Flutter
+
+Proximity – Flutter Widgets App
+
+Tic-Tac-Toe Game in Dart
+
+Solitare Game using Flutter
+
+Pocket Piano App using Flutter for Web, Android and iOS
+
+Neumorphic Calculator in Flutter
+
+Timy Messenger using Flutter
+
+Planet Educational App
+
+E-Commerce App UI using Flutter
+
+Clean Login UI with Hero Animation in Flutter
+
+Music Player using Flutter
+
+Recipe App
+
+What Internet Knows About You App using Flutter
+
+Daily Exercises App using Flutter
+
+Build Workout Timer App with Voice
+
+Travel App UI
+
+Weight Tracker using Flutter
+
+Movie Info App UI
+
+Beer Me Up
+
+Live Location Sharing App using Flutter
+
+AI based Rubik’s Cube Solver using Flutter
+
+Online Food Ordering App
+
+Cinematic App using Flutter
+
+
+Signature View – Drawing App using Flutter	
+
+2048 Game in Dart
+
+Plant App UI
+
+Sky Feed – Decentralized Social Media using Flutter
+
+InShorts Clone News App
+
+
+Toughest App using Flutter
+
+
+Git Journal – Note Taking App using Flutter
+
+Four in a Row Game
+
+Flutter Samples
+
+Flutter eBook App
